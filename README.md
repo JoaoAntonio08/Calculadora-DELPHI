@@ -28,4 +28,4 @@ Sinta-se à vontade para enviar pull requests ou abrir issues para sugerir melho
 
 ## 🙋‍♂️ Contato
 
-Feito por [João Antônio](https://github.com/JoaoAntonio08)  
+Feito por [João Antonio](https://github.com/JoaoAntonio08)  
