@@ -1,6 +1,4 @@
 # Calculadora DELPHI  
-![Badge](https://img.shields.io/badge/status-em desenvolvimento-blue)
-
 Uma calculadora simples desenvolvida em DELPHI, ideal para aprender conceitos básicos de programação na linguagem Pascal/DELPHI.
 
 ## ✨ Funcionalidades
